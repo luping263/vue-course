@@ -210,3 +210,5 @@ https://github.com/lilichao/vue-course
     git fetch # 要想推送成功，必须先确保本地库和远程库的版本一致，fetch它会从远程仓库下载所有代码，但是它不会将代码和当前分支自动合并
         # 使用fetch拉取代码后，必须要手动对代码进行合并
     git pull  # 从服务器上拉取代码并自动合并
+
+6.标签
